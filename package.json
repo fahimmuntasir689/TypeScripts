@@ -8,7 +8,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tsx src/index.ts"
+    "test": "tsx src/scripts.ts"
   },
   "keywords": [],
   "author": "",
